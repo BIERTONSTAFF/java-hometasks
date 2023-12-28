@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="java-hometasks:hw1:Task2">
+    <output-path>$PROJECT_DIR$/out/artifacts/java_hometasks_hw1_Task2</output-path>
+    <root id="archive" name="java-hometasks.jar">
+      <element id="module-output" name="java-hometasks" />
+    </root>
+  </artifact>
+</component>
